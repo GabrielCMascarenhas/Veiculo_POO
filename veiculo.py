@@ -36,6 +36,7 @@ class Veiculo:
  - Modelo: {self.__modelo}
  - Placa: {self.__placa}
  - Ano: {self.__ano}''' 
+
     
 #Abaixo estou instanciando um objeto
 #   da classe Veiculo
