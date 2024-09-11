@@ -2,6 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 ### Python ###
+
+#teste
+testes.py
+testes2.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
